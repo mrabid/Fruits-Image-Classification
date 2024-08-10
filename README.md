@@ -1,1 +1,1 @@
-# Fruits-Image-Classification
+# Image-Classification
